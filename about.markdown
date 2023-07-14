@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-Greetings!
+Hey there!
 
-My name is Simone Spedicato, I come from a rural town in southern Italy, and at present I am pursuing a Master's degree in Astronomy and Astrophysics at the University of Vienna in Austria. Additionally, I am also a Bachelor's student of Physics at the same University. My areas of interest encompass machine learning, nano-technologies, star-forming regions, and planetary sciences.
+My name is Simone Spedicato, and I come from a small town in the Apulia region of southern Italy. Currently, I'm pursuing a Master's degree in Astronomy and Astrophysics at the University of Vienna in Austria. Additionally, I'm also a Bachelor's student in Physics at the same university. My interests span a wide range of subjects, including machine learning, nano-technologies, star formation, and planetary sciences.
 
-I have an active role as a junior science communicator, specializing in outreach initiatives. Specifically, I proudly represent Austria as the Austrian representative at the Central European Hub of Europlanet.
+I have a strong passion for science communication and actively participate in outreach programs. It's a role that brings me a lot of joy. As a matter of fact, I proudly represent Austria as the Austrian representative at the Central European Hub of [Europlanet](https://www.europlanet-society.org).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 
 
