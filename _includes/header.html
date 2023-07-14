@@ -20,10 +20,10 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-			<a href="/" class="en"><b>EN</b></a>
-			<a href="/it" class="it"><b>IT</b></a>
-			<a href="/de" class="de"><b>DE</b></a>
+			<a href="/" class="page-link"><b>EN</b></a>
+			<a href="/it" class="page-link"><b>IT</b></a>
+			<a href="/de" class="page-link"><b>DE</b></a>
+			<a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>
